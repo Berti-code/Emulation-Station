@@ -13,4 +13,7 @@ Moonlight for Emulation Station can be installed with wget using [this script.](
   I was also able to run it in my father's car by connecting the Raspberry Pi to a 12v screen, in that picture my little brother is playing the original Wolfenstein for the first time.</p>
   
 ![](/91780699_509723836379128_6430292046203846656_n.jpg)
+
+![](/91874020_217215036050472_5473410741820194816_n.jpg)
+
 ![](/91723538_239428954093055_3253910018503737344_n.jpg)
