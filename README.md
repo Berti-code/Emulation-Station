@@ -8,4 +8,4 @@ works if you have an nvidia graphics card on your PC.</p>
 <p>Moonlight for Emulation Station can be installed with wget using this script:
 https://raw.githubusercontent.com/TechWizTime/moonlight-retropie/master/moonlight.sh</p>
 <p>Using this build I managed to have some fun playing video games that I used to play on my first Pentium computer as a kid,
-  I was also able to run it in my father's car by connecting the Raspberry Pi to a 12v screen</p>.
+  I was also able to run it in my father's car by connecting the Raspberry Pi to a 12v screen.</p>
