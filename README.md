@@ -18,6 +18,6 @@ Runing The Lion King a game that I used to play as a child on my first computer:
 The steam link icon in the menu:
 ![](/91874020_217215036050472_5473410741820194816_n.jpg)
 The steam app is runing the big picture mode that can also be used on PC's:
-![](/91723538_239428954093055_3253910018503737344_n.jpg)
+![](/91898574_222612918962995_633095402249256960_n.jpg)
 The car setup:
 ![](/91723538_239428954093055_3253910018503737344_n.jpg)
