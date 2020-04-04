@@ -10,3 +10,5 @@ Moonlight for Emulation Station can be installed with wget using [this script](h
   I was also able to run it in my father's car by connecting the Raspberry Pi to a 12v screen.</p>
   
 [a link](https://github.com/user/repo/blob/branch/other_file.md)
+
+[here](https://github.com/retropie/retropie-setup/wiki/Transferring-Roms)
