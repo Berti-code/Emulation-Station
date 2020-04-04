@@ -14,6 +14,9 @@ Moonlight for Emulation Station can be installed with wget using [this script.](
   
 ![](/91780699_509723836379128_6430292046203846656_n.jpg)
 
+The steam link icon in the menu:
 ![](/91874020_217215036050472_5473410741820194816_n.jpg)
-
+The steam app is runing the big picture mode that can also be used on PC's:
+![](/91723538_239428954093055_3253910018503737344_n.jpg)
+The car setup:
 ![](/91723538_239428954093055_3253910018503737344_n.jpg)
