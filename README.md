@@ -5,5 +5,7 @@ over a LAN.</p>
 <p>Help with transfering roms to the system can be found here:https://github.com/retropie/retropie-setup/wiki/Transferring-Roms</p>
 <p>In this case the streamming is done using Moonlight, an open source Nvidia GameStream client, note that this project only
 works if you have an nvidia graphics card on your PC.</p>
-<P>Moonlight for Emulation Station can be installed with wget using this script:
+<p>Moonlight for Emulation Station can be installed with wget using this script:
 https://raw.githubusercontent.com/TechWizTime/moonlight-retropie/master/moonlight.sh</p>
+<p>Using this build I managed to have some fun playing video games that I used to play on my first Pentium computer as a kid,
+  I was also able to run it in my father's car by connecting the Raspberry Pi to a 12v screen</p>.
